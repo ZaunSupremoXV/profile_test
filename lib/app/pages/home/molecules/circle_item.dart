@@ -23,7 +23,6 @@ class _CircleItemState extends State<CircleItem> {
             Container(
               decoration: const BoxDecoration(
                 color: Colors.black,
-                // border: Border.all(color: Colors.grey),
                 shape: BoxShape.circle,
               ),
               height: 75,
@@ -35,7 +34,6 @@ class _CircleItemState extends State<CircleItem> {
                   shape: BoxShape.circle,
                   image: DecorationImage(
                     image: AssetImage(widget.url),
-                    // image: NetworkImage(widget.url),
                     fit: BoxFit.cover,
                   ),
                 ),

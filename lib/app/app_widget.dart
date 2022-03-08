@@ -11,6 +11,7 @@ class AppWidget extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        brightness: Brightness.dark,
       ),
       home: const HomePage(),
     );
