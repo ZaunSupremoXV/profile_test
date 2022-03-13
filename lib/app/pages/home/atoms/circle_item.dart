@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../../../themes/app_color.dart';
+
 class CircleItem extends StatefulWidget {
   String title;
   String url;
@@ -22,7 +24,7 @@ class _CircleItemState extends State<CircleItem> {
           children: [
             Container(
               decoration: const BoxDecoration(
-                color: Colors.black,
+                // color: AppColor.backgroundColor,
                 shape: BoxShape.circle,
               ),
               height: 75,
@@ -44,7 +46,6 @@ class _CircleItemState extends State<CircleItem> {
             ),
             Text(
               widget.title,
-              style: const TextStyle(color: Colors.black),
             )
           ],
         ),
