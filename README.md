@@ -8,7 +8,7 @@
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente do `Flutter`
-* Você tem uma máquina `Windows`. O código não foi testado em `Linux` e `MacOS`.
+* Você tem uma máquina `Windows` ou `Linux` ou `MacOS`.
 
 ## 🚀 Instalando profile_test
 
