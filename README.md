@@ -2,6 +2,8 @@
 
 ## 📱 profile_test
 
+<img src="https://i.imgur.com/GFelRCe.jpg" height="400em"> <img src="https://i.imgur.com/RUBHPqg.jpg" height="400em"> 
+
 > Projeto desenvolvido em Flutter, utilizando arquitetura MVVM juntamente com molecularização do código.
 
 ## 💻 Pré-requisitos
